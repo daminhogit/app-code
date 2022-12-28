@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/learning-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/roboshop-jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-shell69" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-shelll" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shell-learning" vcs="Git" />
