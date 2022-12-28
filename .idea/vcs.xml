@@ -3,12 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ansible-tutorial" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app-code/cart" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app-code/catalogue" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app-code/frontend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app-code/payment" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app-code/shipping" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app-code/user" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-ansible" vcs="Git" />
