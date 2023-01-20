@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/cart" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/catalogue" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kaikki" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/payment" vcs="Git" />
