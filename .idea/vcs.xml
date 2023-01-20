@@ -10,6 +10,7 @@
     <mapping directory="$PROJECT_DIR$/learning-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-terrafoam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning-terraform" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/payment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-jenkins" vcs="Git" />
