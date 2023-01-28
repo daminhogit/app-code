@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ansible-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ansible-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ansibleserver" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cart" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/catalogue" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/frontend" vcs="Git" />
