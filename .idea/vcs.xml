@@ -11,6 +11,7 @@
     <mapping directory="$PROJECT_DIR$/kaikki" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kaikki-1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kaikki-ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kaikkiApp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-terrafoam" vcs="Git" />
