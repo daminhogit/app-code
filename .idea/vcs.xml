@@ -10,7 +10,10 @@
     <mapping directory="$PROJECT_DIR$/frontend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kaikki" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kaikki-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kaikki-admin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kaikki-ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kaikki-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kaikki-frontend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kaikkiApp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/learning-jenkins" vcs="Git" />
