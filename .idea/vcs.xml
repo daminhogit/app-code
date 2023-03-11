@@ -7,6 +7,7 @@
     <mapping directory="$PROJECT_DIR$/ansibleserver" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cart" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/catalogue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/devops-directive-terraform-course" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/frontend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kaikki" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kaikki-1" vcs="Git" />
