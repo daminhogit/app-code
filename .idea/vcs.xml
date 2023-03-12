@@ -29,6 +29,7 @@
     <mapping directory="$PROJECT_DIR$/shell-learning" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/shipping" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/software-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform-learning2023" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/user" vcs="Git" />
   </component>
 </project>
