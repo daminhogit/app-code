@@ -14,6 +14,7 @@
     <mapping directory="$PROJECT_DIR$/learning-terraform" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/payment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/roboshop-infra" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-jenkins-shared-library" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-shell69" vcs="Git" />
